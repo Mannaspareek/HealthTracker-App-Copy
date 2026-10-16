@@ -1,2 +1,2 @@
-This project follows an Agile development process.
-This project follows Agile development practices.
+## Sprint 1
+Documentation updated through a feature branch and pull request.
